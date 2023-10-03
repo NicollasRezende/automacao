@@ -13,3 +13,7 @@
 desta forma:
 
 - pip install pyautogui
+
+# automacao_com_pyside6
+
+### ele faz basicmente o que o primeiro script faz porem agora temos a biblioteca pyside6 com uma janela e um botao de execuçao assim que ele é apertado o processo começa
